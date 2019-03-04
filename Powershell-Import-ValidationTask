@@ -1,0 +1,12 @@
+PS C:\FileShare\Scripts> .\Import-ValidationTask.ps1 -URI http://bkprdev03/BeekeeperApi/OPAS.svc -File C:\_Scripts\EventLog.vp
+
+Importing task: EventLog - Node Start
+Task successfully imported
+Importing task: EventLog - Pre Reboot
+Task successfully imported
+Importing task: EventLog - Post Reboot
+Task successfully imported
+Importing task: EventLog - Node End
+Task successfully imported
+Importing task: EventLog - Node Failure
+Task successfully imported 
