@@ -1,0 +1,6 @@
+Node,GroupName,GrpType,Email,SCOMMM,MMDuration,MMIgnoreFail,ContPatchFail,ExclPatchFail,ContAnyFail,IPlessDAG
+SQLAO01,Infront - Servers - SQL AlwaysOn 1,Application Group,DL@yourcompany.com,No,,No,No,Yes,No,No
+SQLAO02,Infront - Servers - SQL AlwaysOn 1,Application Group,DL@yourcompany.com,No,,No,No,Yes,No,No
+SQLAO03,Infront - Servers - SQL AlwaysOn 1,Application Group,DL@yourcompany.com,No,,No,No,Yes,No,No
+,LABSQL,Windows Failover Cluster,DL@yourcompany.com,No,,No,No,Yes,No,No
+,LABIPless,Exchange DAG Cluster,DL@yourcompany.com,No,,No,No,Yes,No,No
