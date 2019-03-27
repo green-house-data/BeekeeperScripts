@@ -1,0 +1,3 @@
+Name,Clusters,DayNumber,DayOffSet,MaxRuntime,MonthIncrement,OriginalDayNumber,PatchDay,Recurring,WeekNumber,Enabled,PatchDate
+Alpha,EX16DAG01|EX16DAG02|EX16DAG03,18,4,120,1,18,Tuesday,Yes,2,Yes,2019-03-18 18:05:00
+Beta,SCCM,18,4,120,1,18,Tuesday,Yes,2,Yes,2019-03-18 20:00:00
