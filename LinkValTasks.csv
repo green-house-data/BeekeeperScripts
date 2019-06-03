@@ -1,0 +1,5 @@
+Group,Task,Phase,SeqNum
+SCCM,Sleep,On Group Start,1
+SCCM,Sleep,On Group End,1
+SCCM,Sleep,On Group Failure,1
+SCCM,Sleep,On Group Timeout,1
