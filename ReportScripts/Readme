@@ -1,0 +1,1 @@
+These scripts need to run under the Beekeeper service account, or an account that has admin access to the web services and database.
