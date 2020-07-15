@@ -34,8 +34,8 @@ $CurrentDay = Get-Date -Format "dd"
 If(($NumDaysInAdvance -eq 0) -and ($NumWeeksInAdvance -eq 0) -and ($NextMonh = "N"))
   { 
    #Use 2 as default
-   $SchedDay = (Get-Date).Adddays(1).Day
-   $OutDay = (Get-Date).Adddays(1).DayOfWeek
+   $SchedDay = (Get-Date).Adddays(2).Day
+   $OutDay = (Get-Date).Adddays(2).DayOfWeek
   }
 If($NumDaysInAdvance -ne 0)
   {
